@@ -1,18 +1,18 @@
 # 第３回課題
 
 ## サンプルアプリケーションを起動（デプロイ）し、ブラウザでアクセスする
-- lecture03_ap_sample.png
+![](image/lecture03_ap_sample.png)
 
 ## APサーバーについて調べる
 ### APサーバーの名前とバージョンを確認する
-- lecture03_ap_server_name.png
+![](image/lecture03_ap_server_name.png)
 ### APサーバーを終了させた場合、引き続きアクセスできるか確認する
-- lecture03_ap_stop.png
+![](image/lecture03_ap_stop.png)
 ## DBサーバーについて調べる
 ### DBサーバー（DBエンジン）の名前とバージョンを確認する
-- lecture03_db_mysql_version.png
+![](image/lecture03_db_mysql_version.png)
 ### DBサーバーを終了させた場合、引き続きアクセスできるか確認する
-- lecture03_db_mysql_version.png
+![](image/lecture03_db_mysql_version.png)
 ## Railsの構成管理ツールの名前を確認する
 - ツール名：Bundler
 ## 今回の課題から学んだことを報告する
