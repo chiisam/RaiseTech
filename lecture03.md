@@ -12,7 +12,7 @@
 ### DBサーバー（DBエンジン）の名前とバージョンを確認する
 ![db_ver_name](img/lecture03_db_mysql_version.png)
 ### DBサーバーを終了させた場合、引き続きアクセスできるか確認する
-![db_stop](img/lecture03_db_mysql_version.png)
+![db_stop](img/lecture03_db_mysql_stop.png)
 ## Railsの構成管理ツールの名前を確認する
 - ツール名：Bundler
 ## 今回の課題から学んだことを報告する
