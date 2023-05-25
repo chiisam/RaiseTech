@@ -1,7 +1,7 @@
 # 第３回課題
 
 ## サンプルアプリケーションを起動（デプロイ）し、ブラウザでアクセスする
-![sampleap](img/lecture03_ap_sample.png)
+![sampleap](img/Lecture03_ap_sample.png)
 
 ## APサーバーについて調べる
 ### APサーバーの名前とバージョンを確認する
