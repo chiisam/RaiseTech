@@ -2,12 +2,18 @@
 
 ## VPC設定
 ![sampleap](img/Lecture04_vpc_setting.png)
+- 追加分
+![sampleap](img/Lecture04_vpc_subnet.png)
 
 ## EC2設定
 ![sampleap](img/Lecture04_ec2_setting.png)
+- 追加分
+![sampleap](img/Lecture04_ec2_secgroup.png)
 
 ## RDS設定
 ![sampleap](img/Lecture04_rds_setting.png)
+- 追加分
+![sampleap](img/Lecture04_rds_secgroup.png)
 
 ## EC2からRDSへ接続
 ![sampleap](img/Lecture04_ec2-mysql_connect.png)
